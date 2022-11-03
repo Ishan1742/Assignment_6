@@ -1,0 +1,28 @@
+{
+    "employees":[
+        {
+            "name":"Ravi",
+            "dob":"17-jan-2000",
+            "height":"5'8",
+            "city":"Bhopal",
+            "state":"Madhya Pradesh"
+        
+        },
+        {
+            "name":"Rajesh",
+            "dob":"1-feb-2003",
+            "height":"5'9",
+            "city":"Chennai",
+            "state":"Tamil Nadu"
+        
+        },
+        {
+            "name":"Rakesh",
+            "dob":"2-march-2000",
+            "height":"5'2",
+            "city":"Pune",
+            "state":"Maharastra"
+        
+        }
+    ]
+}
